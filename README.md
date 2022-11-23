@@ -52,7 +52,7 @@ https://material.angular.io/
 ### rxjs webSocket
 https://rxjs.dev/api/webSocket/webSocket
 
-###A dvanced Websocket Client (Chrome/Brave extension)
+### A dvanced Websocket Client (Chrome/Brave extension)
 https://chrome.google.com/webstore/detail/advanced-websocket-client/lgimpnfdefcpkicbflpmainbcdnlblej
 
 ### The Websocket Weasel (Firefox extension)
